@@ -1,7 +1,29 @@
+/* Reset default margin and border for all elements */
 html, body {
-    margin: 0;
-    border: 0;
-    font-size: 100%;
-    background-color: #000000;
-    color: #ffffff;
-  }
+  margin: 0;
+  padding: 0; /* Added to reset default padding as well */
+  font-size: 100%;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Arial, sans-serif; /* Added a commonly used font stack */
+}
+
+
+/* Style headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif; /* Apply a modern font for headings */
+  font-weight: bold; /* Add some emphasis to headings */
+  color: #333333; /* Darken heading text color for better readability */
+}
+
+
+
+/* Style for paragraphs */
+p {
+  line-height: 1.5; /* Increase line spacing for better readability */
+}
+
+/* Add a subtle box shadow to images */
+img {
+  box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.1); /* Add a soft shadow to images */
+}
