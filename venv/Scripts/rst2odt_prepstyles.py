@@ -1,4 +1,4 @@
-#!C:\Users\fetep\Desktop\lab4\venv\Scripts\python.exe
+#!C:\Users\fetep\Desktop\lab4\thienhuynhhh.github.io\venv\Scripts\python.exe
 
 # Copyright: This module has been placed in the public domain.
 

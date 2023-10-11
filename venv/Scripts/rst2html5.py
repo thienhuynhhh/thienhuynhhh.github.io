@@ -1,4 +1,4 @@
-#!C:\Users\fetep\Desktop\lab4\venv\Scripts\python.exe
+#!C:\Users\fetep\Desktop\lab4\thienhuynhhh.github.io\venv\Scripts\python.exe
 # :Copyright: © 2015 Günter Milde.
 # :License: Released under the terms of the `2-Clause BSD license`_, in short:
 #
